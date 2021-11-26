@@ -1,0 +1,466 @@
+{
+    "facet_groups": [
+        {
+            "facets": [
+                {
+                    "count": 3521,
+                    "name": "\u00cele-de-France",
+                    "path": "\u00cele-de-France",
+                    "state": "displayed"
+                },
+                {
+                    "count": 2994,
+                    "name": "Auvergne-Rh\u00f4ne-Alpes",
+                    "path": "Auvergne-Rh\u00f4ne-Alpes",
+                    "state": "displayed"
+                },
+                {
+                    "count": 2563,
+                    "name": "Occitanie",
+                    "path": "Occitanie",
+                    "state": "displayed"
+                },
+                {
+                    "count": 1890,
+                    "name": "Provence-Alpes-C\u00f4te d'Azur",
+                    "path": "Provence-Alpes-C\u00f4te d'Azur",
+                    "state": "displayed"
+                },
+                {
+                    "count": 1666,
+                    "name": "Hauts-de-France",
+                    "path": "Hauts-de-France",
+                    "state": "displayed"
+                },
+                {
+                    "count": 1449,
+                    "name": "Bretagne",
+                    "path": "Bretagne",
+                    "state": "displayed"
+                },
+                {
+                    "count": 881,
+                    "name": "Centre-Val de Loire",
+                    "path": "Centre-Val de Loire",
+                    "state": "displayed"
+                },
+                {
+                    "count": 738,
+                    "name": "Bourgogne-Franche-Comt\u00e9",
+                    "path": "Bourgogne-Franche-Comt\u00e9",
+                    "state": "displayed"
+                },
+                {
+                    "count": 652,
+                    "name": "Pays de la Loire",
+                    "path": "Pays de la Loire",
+                    "state": "displayed"
+                },
+                {
+                    "count": 613,
+                    "name": "Nouvelle-Aquitaine",
+                    "path": "Nouvelle-Aquitaine",
+                    "state": "displayed"
+                },
+                {
+                    "count": 584,
+                    "name": "Normandie",
+                    "path": "Normandie",
+                    "state": "displayed"
+                },
+                {
+                    "count": 424,
+                    "name": "Grand Est",
+                    "path": "Grand Est",
+                    "state": "displayed"
+                },
+                {
+                    "count": 67,
+                    "name": "Corse",
+                    "path": "Corse",
+                    "state": "displayed"
+                },
+                {
+                    "count": 10,
+                    "name": "La R\u00e9union",
+                    "path": "La R\u00e9union",
+                    "state": "displayed"
+                }
+            ],
+            "name": "region"
+        }
+    ],
+    "nhits": 18142,
+    "parameters": {
+        "dataset": "bornes-irve",
+        "facet": [
+            "region"
+        ],
+        "format": "json",
+        "rows": 10,
+        "start": 0,
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Place des Jacobins 89100 SENS",
+                "code_insee": 89387,
+                "code_insee_commune": "89387",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    48.197436,
+                    3.279557
+                ],
+                "id_pdc": "FR*S89*E89387*C*B1*D",
+                "id_station": "FR*S89*P89387*C",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "SENS_Place des Jacobins",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.279557,
+                "ylatitude": 48.197436
+            },
+            "geometry": {
+                "coordinates": [
+                    3.279557,
+                    48.197436
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "5a301d2f3abc60aebe22df2da72edec3e9749a42"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Abords de la Place Garibaldi 89100 SENS",
+                "code_insee": 89387,
+                "code_insee_commune": "89387",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    48.2001433,
+                    3.2812817
+                ],
+                "id_pdc": "FR*S89*E89387*B*B1*D",
+                "id_station": "FR*S89*P89387*B",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "SENS_Abords de la Place Garibaldi",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.2812817,
+                "ylatitude": 48.2001433
+            },
+            "geometry": {
+                "coordinates": [
+                    3.2812817,
+                    48.2001433
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "efe036b02cd434bd2959ec4fd27da3ff49e7e977"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Sortie 22 Avallon sur A6 89200 SAUVIGNY LE BOIS",
+                "code_insee": 89378,
+                "code_insee_commune": "89378",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    47.5088675,
+                    3.99164464
+                ],
+                "id_pdc": "FR*S89*E89378*B*B1*D",
+                "id_station": "FR*S89*P89378*B",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "SAUVIGNY LE BOIS_Sortie 22 Avallon sur A6",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.99164464,
+                "ylatitude": 47.5088675
+            },
+            "geometry": {
+                "coordinates": [
+                    3.99164464,
+                    47.5088675
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "0415bafeae09de9e713f6ad7eae1484aab250b59"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Contre All?e Boulevard Marceau 89500 VILLENEUVE SUR YONNE",
+                "code_insee": 89464,
+                "code_insee_commune": "89464",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    48.08561,
+                    3.2934
+                ],
+                "id_pdc": "FR*S89*E89464*B*B1*D",
+                "id_station": "FR*S89*P89464*B",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "VILLENEUVE SUR YONNE_Contre All?e Boulevard Marceau",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.2934,
+                "ylatitude": 48.08561
+            },
+            "geometry": {
+                "coordinates": [
+                    3.2934,
+                    48.08561
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "df01f47220ce51b31ca5c7172840cf975c05a20f"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Rue Du Docteur Courtois 89190 ST MAURICE AUX RICHES HOMMES",
+                "code_insee": 89359,
+                "code_insee_commune": "89359",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    48.34271681,
+                    3.5061168
+                ],
+                "id_pdc": "FR*S89*E89359*A*B1*D",
+                "id_station": "FR*S89*P89359*A",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "ST MAURICE AUX RICHES HOMMES_Rue Du Docteur Courtois",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.5061168,
+                "ylatitude": 48.34271681
+            },
+            "geometry": {
+                "coordinates": [
+                    3.5061168,
+                    48.34271681
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "66345dd8adba5fafce56a02da7438bef796e8cf2"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "2 Rue de la Mairie 89480 ANDRYES",
+                "code_insee": 89007,
+                "code_insee_commune": "89007",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    47.51872413,
+                    3.48571032
+                ],
+                "id_pdc": "FR*S89*E89007*A*B1*D",
+                "id_station": "FR*S89*P89007*A",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "ANDRYES_2 Rue de la Mairie",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.48571032,
+                "ylatitude": 47.51872413
+            },
+            "geometry": {
+                "coordinates": [
+                    3.48571032,
+                    47.51872413
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "6fc5f74a9794f6b30e4d4bfa3dcdefb351a82089"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "90 Avenue Jean Jaures 89400 MIGENNES",
+                "code_insee": 89257,
+                "code_insee_commune": "89257",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    47.96374608,
+                    3.50966513
+                ],
+                "id_pdc": "FR*S89*E89257*A*B1*M",
+                "id_station": "FR*S89*P89257*A",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "MIGENNES_90 Avenue Jean Jaures",
+                "puiss_max": 50.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "combo",
+                "xlongitude": 3.50966513,
+                "ylatitude": 47.96374608
+            },
+            "geometry": {
+                "coordinates": [
+                    3.50966513,
+                    47.96374608
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "c4e111c2d3d3c1db1ca24d7a746262ab570a7378"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Place Des Commerces 89360 FLOGNY LA CHAPELLE",
+                "code_insee": 89169,
+                "code_insee_commune": "89169",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    47.95070082,
+                    3.87835624
+                ],
+                "id_pdc": "FR*S89*E89169*A*B1*G",
+                "id_station": "FR*S89*P89169*A",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "FLOGNY LA CHAPELLE_Place Des Commerces",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.87835624,
+                "ylatitude": 47.95070082
+            },
+            "geometry": {
+                "coordinates": [
+                    3.87835624,
+                    47.95070082
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "7e525b71b252d7cfa78010b63609b76e76904a0f"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "Place Lucien Pothier 89140 CUY",
+                "code_insee": 89136,
+                "code_insee_commune": "89136",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    48.2579944,
+                    3.26496823
+                ],
+                "id_pdc": "FR*S89*E89136*A*B1*G",
+                "id_station": "FR*S89*P89136*A",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "CUY_Place Lucien Pothier",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.26496823,
+                "ylatitude": 48.2579944
+            },
+            "geometry": {
+                "coordinates": [
+                    3.26496823,
+                    48.2579944
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "bb5f796ee52afd4f4da7b6ea57e527946944ea8a"
+        },
+        {
+            "datasetid": "bornes-irve",
+            "fields": {
+                "acces_recharge": "Payant",
+                "accessibilite": "24/24 7/7 jours",
+                "ad_station": "6 Grande Rue 89320 ARCES DILO",
+                "code_insee": 89014,
+                "code_insee_commune": "89014",
+                "date_maj": "2020-03-24",
+                "geo_point_borne": [
+                    48.09110535,
+                    3.59796211
+                ],
+                "id_pdc": "FR*S89*E89014*A*B1*G",
+                "id_station": "FR*S89*P89014*A",
+                "n_amenageur": "SDEY",
+                "n_enseigne": "IRVE SDEY",
+                "n_operateur": "SDEY",
+                "n_station": "ARCES DILO_6 Grande Rue",
+                "puiss_max": 22.0,
+                "region": "Bourgogne-Franche-Comt\u00e9",
+                "source": "https://www.data.gouv.fr/fr/datasets/sdey-bornes-de-recharge-pour-vehicule-electrique/#resource-93b6eddf-9320-400b-bbcb-3be7151d4964",
+                "type_prise": "E/F + T2",
+                "xlongitude": 3.59796211,
+                "ylatitude": 48.09110535
+            },
+            "geometry": {
+                "coordinates": [
+                    3.59796211,
+                    48.09110535
+                ],
+                "type": "Point"
+            },
+            "record_timestamp": "2021-11-08T17:25:59.937000+00:00",
+            "recordid": "6a2a8487906e9d4ef28db0fe1d4d94c80e65bd27"
+        }
+    ]
+}

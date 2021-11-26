@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>    
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+</head>
+
+<body>
+    <h1>récapitulatif :</h1>
+    <div id="inner_div"> 
+        <div id="div_box">
+            <table id="table_map">
+                {{time | safe}}
+                {{distance | safe}}
+                {{ arrets | safe }}
+            </table>   
+        </div>
+        <br>
+
+        <div id="div_map_display">
+            {{ carte | safe }}
+        </div>      
+    </div> 
+</body>
+</html>

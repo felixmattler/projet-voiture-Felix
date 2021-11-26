@@ -1,0 +1,33 @@
+body {
+	background-color: rgb(130, 173, 187);
+  }
+  
+  h1 {
+	color: rgb(255, 255, 255);
+	text-align: center;
+  }
+  
+  p {
+	font-family: verdana;
+	font-size: 20px;
+  }
+
+  #div_box {
+    border: 10px ridge rgb(53, 52, 52);
+    background-color: rgb(201, 166, 90);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+
+  #inner_div {
+    padding: 3%;
+  }
+
+  #box_div {
+    
+    
+  }

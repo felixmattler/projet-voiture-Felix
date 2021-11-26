@@ -1,0 +1,478 @@
+{
+    "bbox": [
+        5.734946,
+        45.186476,
+        6.128889,
+        45.905592
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "engine": {
+            "build_date": "2021-07-05T10:57:48Z",
+            "graph_date": "2021-11-18T15:23:41Z",
+            "version": "6.6.1"
+        },
+        "query": {
+            "coordinates": [
+                [
+                    5.7357819,
+                    45.1875602
+                ],
+                [
+                    6.1288847,
+                    45.8992348
+                ]
+            ],
+            "format": "json",
+            "profile": "driving-car"
+        },
+        "service": "routing",
+        "timestamp": 1637873467732
+    },
+    "routes": [
+        {
+            "bbox": [
+                5.734946,
+                45.186476,
+                6.128889,
+                45.905592
+            ],
+            "geometry": "arxrGej_b@JZlAbEHVFCDEGWmAeEsAqEGUEMGWu@cCGQ_DyKOe@[eAw@cC[s@GQCEKSISm@{@qCkFS_@kBgDoBmD[g@}AmCYe@qAuBuQsYQYeAeB_AwAaA{AkEeHcC}DuBoDeBgDKSYm@o@yAWu@w@_CSm@EUEOCMa@yB_@yBe@gEmA_MuA_Nk@kGm@{HoE}n@eAwMoBgVaCmWsAaM}AoM_AoHkC{Qi@kDiAwGoAaHwDeQ_C{IcBmF{ByGWq@wAoD_CkFkCuF}C{FyAcCU]w@qAwCkEaDcE{FwG_GeGkAiAyM}LiMuLmGiG_FkFwFeGqEgF}AoBeLcOuDkFeDaFaD_FuC_FmDkGeDcGyBuEuEsKgBwEqBqFuCkJiD_MuBaJgAiFcCeMyBmLqAiHeCkMk@sCgB_IaB}G}CeLmAcEqBkGmC_IsBuFcGeOaHeOoCkFqCcFuCcFuCyEwCqEoBwCkC{DoF_IcKkNmP{SuCqDkDeEqHyIiIuJuA_BsDeE_DiDgEsEcBeBmB{BuE}FmBwBm@m@aCyByDuCsAiAy@w@eG}FaRyPoQsOkRsOsEoD}McKwRmNwIaGwJsGiRqLeZiQqHyEiHgFsCyBcGcF}BsB_FwEcBgBcEoEwBaC_FeG}GcJsAmBeEqGmEgHmOuWyJoP_BiC_BeC}AaC{A}BoBsC_DiEuDwEmDgE{BgCaCiCkAmAmBmBmBiB_ByAgGmF}FqE}EkDsGgEcDoBaHuDsFmC}EuBeBq@qCgA{Bw@{DoA{FcBkCq@iEcA_Do@_Dm@sGkAkJ_BuTyDmPcDeRgEyCw@_NyDoO_FiQkG_QwGmSqImMyFiMcGkTsKgKsFsHcEqJqFqiAaq@aMsHgT_N{CeBeDeBgBw@oEeBgBi@eEcA}A[uDi@uE_@_DImBCyDFaDNqBPmD`@_D`@aKbBoEl@iCXaBN}AHuCJsB@kCEwBK}@GoAOwAQuB]aB]}A_@eA[mFiBaEcBuUqKmFsBqE{Aw@UaAWu@QuCk@qBYkBUuDUkDKwD?_DH_GXcJl@aFPaCFkDAoBCgFYsBUyCc@wBc@kEiAwBu@mCeAiBy@wEeCkDsBcEmCmT}NcFgD_G}DgAs@qCiBeIeFoDwBqDqBqE_C_HaD}FcCeHmCe_@sMyLcEaGuB_GsB}CaAuDgAyD}@yA[aBWgDa@gEYkFQ_BBwCHiDVyAPsDh@kDr@sCr@mCt@kCz@{Ah@mAf@oBt@yB`AaAb@y@^cI|DqBdAmDpBoD|BmFvDgElDeG~FsD`EaD|Dq@|@_@f@aB`CcAxA_AxA_A|A}B~D{BjEcCfFsBbF]x@g@nAwAnDq@hBqBdFi@bBM`@eBxFo@rBw@`EwCzLgA|EuCzNsFrZ}AjIq@~CyAbGgBdG{ApEw@nBkBhEw@~AoAzBwBlDu@fA_BvBUZSVe@h@uA|A_B|AcBxA{DxCwFzDqGrDkGhDuQtJgEzBeGrDiBlAiFlDgE|CeEfDqEzDyJpIyBfBuBbB_EtCoDxBgR~J{EbCyBx@kJhCeA`@gB~@mBvA{A|A{FxGo@t@uBbCcBpBiAlB_ArBq@lBKT}@fBy@jA_AlAoAxAMNuBvBs@l@aBhAkBx@u@XsAVcALeAD}D?Q?}@FsBV}@ToAb@k@VoBz@{E~B{AbA{@r@y@v@kAzA_AxAw@|Ai@rAa@dAgBjFsAfEo@hBOd@uAjDqArC[p@CD_@p@o@hAc@t@g@z@[f@_AzA_ArAqBrDs@dAo@jA}@|AoAjCa@|@]x@w@rBe@rAs@`C_@|AwDdSoGv^k@`DqAzGQ|@k@dCo@bCaAlDcA`DSh@qD`K_BdEg@pAa@dAy@fB_AxAy@bAqAfAw@d@mDlBm@\\eAt@u@v@o@x@o@fAa@`Aa@hA{@jCmAtDcB|E}@dCo@xAy@fBkAxBuBrDeF`Jm@dAWb@qA|B}CpEwBpCkDhEqBhCgD~DmBrBuBnBgBrAaC|AsDbBqC|@kDv@mCZyD^eAHg@AkBPc@Fm@JyAR[ASGe@Wi@a@u@g@g@KQ?QFQLMPKXCVAr@F\\Hf@h@pCNv@p@|CX~@DJP^~@dBL^Dp@A\\G^O\\u@jASZuAvBGHGJcA~AWj@_@j@M`@M\\_@zBIVUb@_@TYFU?c@Mc@[k@w@KQKSeAmBo@}AgAgCoC}Fs@yAs@uAw@yA{BeE{@{A_A{AgAcBu@gAyAkBwAaBgAeA{AsA_BmAeAs@mCaBgAm@iB_AuBaAgAa@cA_@oCy@uCs@iJkBaDw@mAa@sIoD_DaAiB]oBUkHg@wBSiASqBg@s@WmB{@sBqAmB_BeBiBgAuAmAeBc@u@kA{ByAkDkAmD_AaD]wAk@wCa@oC}A{N[aCk@gDg@yBQw@Sq@Oi@YaAeAwC{@uBuAoCoB}CkA}AeCmCuBiBkCeBkB_A}Ao@oBk@aDo@cCUsBIgBEqG?kB?kAA_AAoEOgDU_Dc@mAUuBk@oBq@}BcAeBaAs@c@m@a@oB{A_@YmCcCgB}AgCsBcC_Bo@_@s@a@iCkAkBo@oBi@o@Q_AS_Da@uCSoDEqDLqAJ_CZqMtBsIjAyFf@oBH{BB}BAeAEwCSkBYiB_@wCy@s@WoAe@iCiAuBeA}@i@oOqJ_EwBuEkBuAe@q@S_EaA_AQ_AOgC]uIy@sBY_Eu@oJuBsBYwBOgCE{BBcCH}CRmAJsC`@eAPsDv@s@PaAX}PxEwDz@yAVeDb@kCV}Kp@gDXaCXcC`@sCl@yCx@_Cx@s@VkAf@cEnBuEfCk@\\_CtAgFvC_Bx@cAd@_C~@}C|@oAZaBZuC`@gAHw@DiCJcB?kAAgDMyE[oBO{E[wDOgAEsBAmC?uGJcBDc@Bk@B{J\\w[hAyMXkG?{BEsFW_CSqFq@mCg@{D}@qDgA_FiB}DgBiBcAaC{AsAcAkB}AeBaBqByB_AkAw@cA{BgDoBkDy@cBy@iBu@iB_BmEiF{PmAuDwAsDw@gBwBkEoBcDeA_B}IyLuCkEuBoDoIsOmBgDiDuF_EwF_BoB_EsE_E}DyDeDqAcAeEuCeBeAcBaAmDgB{DcB{CiAmDgAgFqAw\\uGgH}AyD}@{HwBiFcBuGcCeDsAoD{A_DwAgCkA_N{GiCsA{GoDkCsAyQwJyHkE}DiCmCoBuN{Kq@c@gAq@eAk@wG{CiAm@oBmA_CiBw@u@qCyCsJsLaEkFyDgF_CkDgDkFmBiD{DkHsAqC{AgDoAuCoCeHkBiFq@sBm@kBmB{GqByHoBiIiBgIiHo\\[wAcAwEiBqIoCmMwAwGU_A_CoKm@kCm@kCuBwIiAsEmA{EaDwLiIu[i@wBgAgEuB_IcAuD}@oD}AmGkDyMgDqMuBoHcCsHoCkHoA{CkDyH{Vyg@{CyFkAmBiC{DaD}DgDgDy@u@eDgCsBsAcCsAeEiBiBo@yDaAyAYkC_@aCUyCKaAC_BA{A@mC@mKRkFJaFJ{DHcR\\}EHsGCmEMcE[}Dk@wDw@yEsAwAi@yEsBcCqAwBqAeBkAaBoAiCyBeCaCwDeEwEwFc\\ib@iJwL}Va\\kCiD[a@qGcIgCwCaCeCsDoDiEsDeE_DsBuAeC{AmEcCeFaCeBu@qEkBsHgCoCu@cGoBsEaBQW}A{@YU]]m@_Ai@wAWoAQaBEeAA{@@wA@q@@o@?}B?{B@e@CQ?A@wB?m@Cm@Ga@GQK[OYuAsBWc@eCqFa@m@u@kBc@uAUcAKk@My@K}@IcACo@CoA@sBJ{BTwBLw@d@oAb@uA\\}@dAwB~A_DZ}@He@Fk@Be@@e@A[Is@Q{@Ys@g@q@_@[MI{AaAqBwAYQQQq@{@yAcBg@m@W[o@q@m@q@iFkGyAeBaDwD}BaDSWw@_A[]Oa@E[D_@DMXWJILOR]b@c@RSTU\\[HIZ]DGDER]N_@FS~@eEHa@JYBEHIHKZa@JMLM|@eATQLMJEJABBB@D?BADCDI?UAECEIEA?CKCSQmBE]]cD[uAE]cBgPE[[sAQ_@gAoA_A{@MIWW[e@[YECq@YK[AQBQ`@m@dFoCVo@h@c@LKJIbAy@JILIdAy@JGFGHClBuA^W\\QJEL?JD`@tBBRBJVxAHRXVJ?PENUd@WZGHELINIp@a@JSRKTM`@SNKJD~BaANUU?{@^",
+            "segments": [
+                {
+                    "distance": 105401.2,
+                    "duration": 4215.0,
+                    "steps": [
+                        {
+                            "distance": 112.4,
+                            "duration": 10.1,
+                            "instruction": "Head southwest on Boulevard Jean Pain, D 1090",
+                            "name": "Boulevard Jean Pain, D 1090",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "distance": 1025.7,
+                            "duration": 121.1,
+                            "instruction": "Continue straight onto Boulevard Jean Pain, D 1090",
+                            "name": "Boulevard Jean Pain, D 1090",
+                            "type": 6,
+                            "way_points": [
+                                3,
+                                28
+                            ]
+                        },
+                        {
+                            "distance": 1165.7,
+                            "duration": 91.9,
+                            "instruction": "Keep right onto Avenue de Verdun, D 1090",
+                            "name": "Avenue de Verdun, D 1090",
+                            "type": 13,
+                            "way_points": [
+                                28,
+                                39
+                            ]
+                        },
+                        {
+                            "distance": 1696.3,
+                            "duration": 88.8,
+                            "instruction": "Keep right onto Avenue de Verdun",
+                            "name": "Avenue de Verdun",
+                            "type": 13,
+                            "way_points": [
+                                39,
+                                57
+                            ]
+                        },
+                        {
+                            "distance": 10328.0,
+                            "duration": 347.8,
+                            "instruction": "Keep left onto A 41",
+                            "name": "A 41",
+                            "type": 12,
+                            "way_points": [
+                                57,
+                                127
+                            ]
+                        },
+                        {
+                            "distance": 1749.0,
+                            "duration": 55.3,
+                            "instruction": "Continue straight onto A 41",
+                            "name": "A 41",
+                            "type": 6,
+                            "way_points": [
+                                127,
+                                136
+                            ]
+                        },
+                        {
+                            "distance": 29528.3,
+                            "duration": 947.0,
+                            "instruction": "Keep left onto A 41",
+                            "name": "A 41",
+                            "type": 12,
+                            "way_points": [
+                                136,
+                                340
+                            ]
+                        },
+                        {
+                            "distance": 4587.2,
+                            "duration": 171.1,
+                            "instruction": "Continue straight onto A 43",
+                            "name": "A 43",
+                            "type": 6,
+                            "way_points": [
+                                340,
+                                386
+                            ]
+                        },
+                        {
+                            "distance": 4267.6,
+                            "duration": 169.4,
+                            "instruction": "Keep left onto VRU Chamb\u00e9ry, N 201",
+                            "name": "VRU Chamb\u00e9ry, N 201",
+                            "type": 12,
+                            "way_points": [
+                                386,
+                                441
+                            ]
+                        },
+                        {
+                            "distance": 682.5,
+                            "duration": 30.2,
+                            "instruction": "Keep left onto N 201",
+                            "name": "N 201",
+                            "type": 12,
+                            "way_points": [
+                                441,
+                                456
+                            ]
+                        },
+                        {
+                            "distance": 1617.3,
+                            "duration": 72.8,
+                            "instruction": "Continue straight onto VRU Chamb\u00e9ry, N 201",
+                            "name": "VRU Chamb\u00e9ry, N 201",
+                            "type": 6,
+                            "way_points": [
+                                456,
+                                475
+                            ]
+                        },
+                        {
+                            "distance": 997.8,
+                            "duration": 44.9,
+                            "instruction": "Keep left onto VRU Chamb\u00e9ry, N 201",
+                            "name": "VRU Chamb\u00e9ry, N 201",
+                            "type": 12,
+                            "way_points": [
+                                475,
+                                492
+                            ]
+                        },
+                        {
+                            "distance": 1315.2,
+                            "duration": 59.2,
+                            "instruction": "Keep left onto VRU Chamb\u00e9ry, N 201",
+                            "name": "VRU Chamb\u00e9ry, N 201",
+                            "type": 12,
+                            "way_points": [
+                                492,
+                                510
+                            ]
+                        },
+                        {
+                            "distance": 1018.1,
+                            "duration": 45.8,
+                            "instruction": "Keep left onto VRU Chamb\u00e9ry, N 201",
+                            "name": "VRU Chamb\u00e9ry, N 201",
+                            "type": 12,
+                            "way_points": [
+                                510,
+                                522
+                            ]
+                        },
+                        {
+                            "distance": 814.2,
+                            "duration": 82.8,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                522,
+                                556
+                            ]
+                        },
+                        {
+                            "distance": 178.9,
+                            "duration": 37.5,
+                            "instruction": "Continue straight onto A 43",
+                            "name": "A 43",
+                            "type": 6,
+                            "way_points": [
+                                556,
+                                562
+                            ]
+                        },
+                        {
+                            "distance": 6463.6,
+                            "duration": 224.8,
+                            "instruction": "Keep left onto A 41",
+                            "name": "A 41",
+                            "type": 12,
+                            "way_points": [
+                                562,
+                                666
+                            ]
+                        },
+                        {
+                            "distance": 2514.3,
+                            "duration": 79.6,
+                            "instruction": "Keep left onto L'Alpine, A 41",
+                            "name": "L'Alpine, A 41",
+                            "type": 12,
+                            "way_points": [
+                                666,
+                                698
+                            ]
+                        },
+                        {
+                            "distance": 4898.6,
+                            "duration": 154.1,
+                            "instruction": "Keep left onto L'Alpine, A 41",
+                            "name": "L'Alpine, A 41",
+                            "type": 12,
+                            "way_points": [
+                                698,
+                                754
+                            ]
+                        },
+                        {
+                            "distance": 8734.7,
+                            "duration": 273.9,
+                            "instruction": "Continue straight onto L'Alpine, A 41",
+                            "name": "L'Alpine, A 41",
+                            "type": 6,
+                            "way_points": [
+                                754,
+                                830
+                            ]
+                        },
+                        {
+                            "distance": 5235.8,
+                            "duration": 164.6,
+                            "instruction": "Continue straight onto L'Alpine, A 41",
+                            "name": "L'Alpine, A 41",
+                            "type": 6,
+                            "way_points": [
+                                830,
+                                871
+                            ]
+                        },
+                        {
+                            "distance": 11656.5,
+                            "duration": 392.4,
+                            "instruction": "Keep left onto L'Alpine, A 41",
+                            "name": "L'Alpine, A 41",
+                            "type": 12,
+                            "way_points": [
+                                871,
+                                959
+                            ]
+                        },
+                        {
+                            "distance": 361.7,
+                            "duration": 21.5,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                959,
+                                971
+                            ]
+                        },
+                        {
+                            "distance": 19.1,
+                            "duration": 2.0,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                971,
+                                972
+                            ]
+                        },
+                        {
+                            "distance": 224.1,
+                            "duration": 31.2,
+                            "instruction": "Keep left",
+                            "name": "-",
+                            "type": 12,
+                            "way_points": [
+                                972,
+                                982
+                            ]
+                        },
+                        {
+                            "distance": 683.8,
+                            "duration": 35.6,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                982,
+                                1001
+                            ]
+                        },
+                        {
+                            "distance": 783.2,
+                            "duration": 83.5,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                1001,
+                                1026
+                            ]
+                        },
+                        {
+                            "distance": 409.7,
+                            "duration": 36.9,
+                            "instruction": "Continue straight onto Boulevard Ouest, D 1501",
+                            "name": "Boulevard Ouest, D 1501",
+                            "type": 6,
+                            "way_points": [
+                                1026,
+                                1031
+                            ]
+                        },
+                        {
+                            "distance": 167.5,
+                            "duration": 14.4,
+                            "instruction": "Keep right onto Boulevard de la Rocade",
+                            "name": "Boulevard de la Rocade",
+                            "type": 13,
+                            "way_points": [
+                                1031,
+                                1035
+                            ]
+                        },
+                        {
+                            "distance": 492.7,
+                            "duration": 76.2,
+                            "instruction": "Keep right onto Boulevard de la Rocade",
+                            "name": "Boulevard de la Rocade",
+                            "type": 13,
+                            "way_points": [
+                                1035,
+                                1068
+                            ]
+                        },
+                        {
+                            "distance": 97.9,
+                            "duration": 16.1,
+                            "exit_number": 3,
+                            "instruction": "Enter the roundabout and take the 3rd exit onto Avenue Bouvard",
+                            "name": "Avenue Bouvard",
+                            "type": 7,
+                            "way_points": [
+                                1068,
+                                1082
+                            ]
+                        },
+                        {
+                            "distance": 602.1,
+                            "duration": 54.1,
+                            "instruction": "Continue straight onto Avenue Bouvard",
+                            "name": "Avenue Bouvard",
+                            "type": 6,
+                            "way_points": [
+                                1082,
+                                1098
+                            ]
+                        },
+                        {
+                            "distance": 512.4,
+                            "duration": 82.5,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                1098,
+                                1120
+                            ]
+                        },
+                        {
+                            "distance": 156.0,
+                            "duration": 22.5,
+                            "instruction": "Turn right onto Avenue d'Albigny, D 909",
+                            "name": "Avenue d'Albigny, D 909",
+                            "type": 1,
+                            "way_points": [
+                                1120,
+                                1129
+                            ]
+                        },
+                        {
+                            "distance": 160.7,
+                            "duration": 52.9,
+                            "instruction": "Turn slight right onto Quai Eustache Chappuis, D 1508",
+                            "name": "Quai Eustache Chappuis, D 1508",
+                            "type": 5,
+                            "way_points": [
+                                1129,
+                                1140
+                            ]
+                        },
+                        {
+                            "distance": 94.7,
+                            "duration": 13.6,
+                            "instruction": "Turn slight right onto Quai Eustache Chappuis, D 1508",
+                            "name": "Quai Eustache Chappuis, D 1508",
+                            "type": 5,
+                            "way_points": [
+                                1140,
+                                1143
+                            ]
+                        },
+                        {
+                            "distance": 47.9,
+                            "duration": 6.9,
+                            "instruction": "Turn sharp left onto Quai Eustache Chappuis, D 1508",
+                            "name": "Quai Eustache Chappuis, D 1508",
+                            "type": 2,
+                            "way_points": [
+                                1143,
+                                1145
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at Quai Eustache Chappuis, D 1508, on the right",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                1145,
+                                1145
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "distance": 105401.2,
+                "duration": 4215.0
+            },
+            "way_points": [
+                0,
+                1145
+            ]
+        }
+    ]
+}

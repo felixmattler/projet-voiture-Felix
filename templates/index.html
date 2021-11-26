@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html >
+	
+<head>
+	<meta charset="utf-8">
+	<title>Application trajet</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+</head>
+
+<body >
+
+	<h1>Calculer votre trajet</h1>
+	{%for element in depart%}
+	<p>{{element}}</p>
+	{% endfor %}
+	<br><br><br><br>
+
+
+		<div id="div_box">
+		<form action="/map" method="get">
+			<label>Ville de départ : </label>
+			<input type="text" name="depart">
+			<br>
+			<label>Ville d'arrivée : </label>
+			<input type="text" name="arrive">
+			<br>
+			<label>Modele de voiture : </label>
+			<select name="voitures" id="voitures-select">
+				{%for voiture in voitures %}
+				<option value="{{ voiture.model }}">{{ voiture.model  }}</option>
+				{% endfor %}
+			</select>
+			<br>
+			<input type="submit" value="Envoyer" id="valider">
+			</div>
+		</form>
+	</div>
+
+</body>
+</html>

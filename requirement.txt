@@ -1,0 +1,6 @@
+flask
+folium
+openrouteservice
+geop
+requests
+zeep
