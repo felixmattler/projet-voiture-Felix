@@ -104,10 +104,10 @@ def map():
 def startSoap():
 	subprocess.call("soap.py",shell=True)
 
-#if __name__ == '__main__':
+if __name__ == '__main__':
 
-#	threadSoap = threading.Thread(target=startSoap)
+	threadSoap = threading.Thread(target=startSoap)
 
-#	threadSoap.start()
-#	app.run(debug=True)
+	threadSoap.start()
+	app.run(debug=True)
 
